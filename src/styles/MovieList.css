@@ -1,0 +1,9 @@
+.synopsis{
+    height: '13.563rem';
+}
+
+.movie-card{
+    width: 20rem;
+    height: 38.125rem; 
+    margin: 1em 0em;
+}
