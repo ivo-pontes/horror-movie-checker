@@ -1,0 +1,15 @@
+.nav-link, h1{
+    color: red;
+    text-shadow: 1px 1px 1px #FFFFFF;
+  }
+  
+@font-face{
+  font-family: 'Scream Font';
+  src: url('../assets/fonts/scream_real.ttf');
+}
+
+h1{
+  padding-top: .5em;
+  font-family: 'Scream Font';
+  text-shadow: 2px 2px 4px #FFFFFF;
+}
